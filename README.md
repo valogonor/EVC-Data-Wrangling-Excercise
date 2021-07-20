@@ -4,4 +4,4 @@ The Python script in wrangling.py combines data from CSVs, JSONs, and URLs of AP
 
 In addition to Python 3, you should have the Python packages Pandas and Requests installed.
 
-I have included notebook.py, which I used as a notebook for data exploration before writing the Python script.
+I have included notebook.py, which I used as a notebook for data exploration before writing the Python script. The SQL file is from a separate exercise.
